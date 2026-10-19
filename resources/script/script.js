@@ -1,3 +1,24 @@
+
+// let produtos = ["Mouse", "Fone", "PC", "Teclado", "Cabo", "Monitor", "Notebook", "Tablet", "Webcam", "Mousepad"];
+
+// produtos.push("Celular");
+
+
+// if (produtos.includes("Mouse")) {
+//     console.log("Tem mouse");
+// } else {
+//     console.log("Não tem");
+// }
+
+
+// let filtro = produtos.filter(p =>
+//     p.length > 5);
+
+
+// console.log(produtos);
+// console.log(filtro);
+
+
 let arquivos = ["foto1.png","foto2.jpg","foto_viagem.png","relatorio.pdf","relatorio_2026.pdf","trabalho.docx","foto_casa.jpg","musica.mp3","foto_carro.png",    "atividade.pdf","video.mp4","documento.txt"];
 
 // pega os pdf
